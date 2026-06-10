@@ -1,4 +1,4 @@
-# CodeAlpha_Hangman_Game
+# CodeAlpha_HangmanGame
 
 # Description
 A simple text-based Hangman Game built using 
