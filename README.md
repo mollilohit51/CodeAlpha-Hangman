@@ -16,7 +16,7 @@ identify the word before the game ends.
 - Win and lose conditions
 - Console-based gamplay
   
-# Techonolgies used
+# Technolgies used
 - Python
 
 # Concepts Used
