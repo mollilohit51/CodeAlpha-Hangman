@@ -13,8 +13,11 @@ identify the word before the game ends.
 - Limited incorrect attempts
 - Win and lose conditions
 - Console-based gamplay
+  
+# Techonolgies used
+- Python
 
-# Technologies Used
+# Concepts Used
 - Loops
 - Conditional Statements
 - Lists
@@ -24,7 +27,8 @@ identify the word before the game ends.
 # How to Run
 1. Install Python
 2. Open terminal or command prompt
-3. Run file
+3. Run the file:
+
 python Hangman.py
 
 # Author
