@@ -8,18 +8,18 @@ a unlimited number of incorrect guesses to
 identify the word before the game ends.
 
 # Features
--Random word Selection
--Letter-by-letter guessing
--Limited incorrect attempts
--Win and lose conditions
--Console-based gamplay
+- Random word Selection
+- Letter-by-letter guessing
+- Limited incorrect attempts
+- Win and lose conditions
+- Console-based gamplay
 
 # Technologies Used
--Loops
--Conditional Statements
--Lists
--Strings
--Random Module
+- Loops
+- Conditional Statements
+- Lists
+- Strings
+- Random Module
 
 # How to Run
 1. Install Python
